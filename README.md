@@ -12,7 +12,7 @@ A intenção é aprender a internacionalização básica de um App, assim o apli
 
 Para fins de testes foram selecionados 4 idiomas em meu aparelho:
 
-<img width="100" alt="indiomas_celular" src="[https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/4c0b3bbc-a946-4ef8-a8d6-3fff05e3e37a](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/ef743dde-5c65-401f-94f3-26b647e1b1fb)">
+![indiomas_celular](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/dae447a6-65c1-429f-8ece-47a08fcedf2a)
 
 Português 
 

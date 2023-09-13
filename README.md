@@ -14,6 +14,8 @@ Para fins de testes foram selecionados 4 idiomas em meu aparelho:
 
 ![indiomas_celular](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/dae447a6-65c1-429f-8ece-47a08fcedf2a)
 
+## O resultado do app no meu aaparelho ficou assim: 👇
+
 Português 
 
 ![Portugues](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/0e398dbb-c7dc-451f-b2c0-139605b2e21d)
@@ -22,7 +24,7 @@ Inglês
 
 ![Ingles](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/adce8a8f-0f54-48c3-b7a7-22d1b4acd9be)
 
-Espaanhol 
+Espanhol 
 
 ![Espanhol](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/81984aae-53b4-471d-81b3-761d7aa31487)
 

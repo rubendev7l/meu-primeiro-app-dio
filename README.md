@@ -2,7 +2,7 @@
 
 Esse projeto tem o objetivo de realizar um pequeno desafio como aluno do Bootcamp de Mobile com Kotlin, oferecido pelo Santander e DIO.👨‍💻
 
-- O desafio se configura em criar um  vaalor dentro de uma string.xml
+- O desafio se configura em criar um  valor dentro de uma string.xml
 - E trocar o texto do xml usando outras linguagens (Inglês, Espanhol, etc.).
 
 Parte do processo/código: 

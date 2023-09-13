@@ -14,7 +14,7 @@ Para fins de testes foram selecionados 4 idiomas em meu aparelho:
 
 ![indiomas_celular](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/dae447a6-65c1-429f-8ece-47a08fcedf2a)
 
-## O resultado do app no meu aaparelho ficou assim: 👇
+## O resultado do app no meu aparelho ficou assim: 👇
 
 Português 
 
@@ -33,7 +33,7 @@ Francês
 ![Frances](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/5b757a9f-8cf9-44c9-b421-53abda1c3e05)
 
 
-### Confeso que de ínicio fiquei confuso com tanta informação que o Kotlin trás, mas no final achei bem prático e intuitivo realizar essa atividade!😀
+### Por fim, confeso que de ínicio fiquei confuso com tanta informação que o Kotlin trás, mas achei bem prático e intuitivo realizar essa atividade!😀
 
 
 ![App-icone](https://github.com/rubendev7l/meu-primeiro-app-dio/assets/106977664/6695c69b-4d24-4503-a000-f17786ab164f)
